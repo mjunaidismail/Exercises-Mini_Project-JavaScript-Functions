@@ -1,0 +1,7 @@
+//hello Ahmed
+
+function greet(name){
+    console.log("Hello " + name);
+}
+
+greet("Ahmed.");
