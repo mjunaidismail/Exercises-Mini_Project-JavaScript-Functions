@@ -5,6 +5,7 @@ let sum = 0;
 
 for(let i=0; i< arr.length; i++
 ){
+    //Add value present at arr[i] index to sum variable 
     sum += arr[i];
 
 }

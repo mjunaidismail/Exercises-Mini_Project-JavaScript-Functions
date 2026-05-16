@@ -1,5 +1,7 @@
 //Even or odd
 
+
+//To get prompt from node.js without this line it will throw prompt error
 const prompt = require('prompt-sync')();
 
 

@@ -1,4 +1,4 @@
-//BMI weight/height 
+//BMI calculator
 
 const prompt= require('prompt-sync')();
 

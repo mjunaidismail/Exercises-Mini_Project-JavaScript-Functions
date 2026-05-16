@@ -10,6 +10,7 @@ if(price <= 5000){
 }
 
 else{
+    //it will firt get 10% of price and then reduce it from original price
     price -= (price/100)*10
     console.log("Congradulation your discounted price is " + price);
 }

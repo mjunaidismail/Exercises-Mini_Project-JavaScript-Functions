@@ -1,5 +1,6 @@
 const prompt = require('prompt-sync')();
 
+//In this exercise the catch is, we'll build logic on signs instead of numbers
 const number = Number(prompt("Enter first number: "));
 const sign = prompt("Enter operator: ");
 const number2 = Number(prompt("Enter second number: "));

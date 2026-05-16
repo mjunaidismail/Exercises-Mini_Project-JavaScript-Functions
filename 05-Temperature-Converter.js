@@ -1,4 +1,4 @@
-//celcius to faherenheight
+//Temperature Converter
 
 const prompt = require('prompt-sync')();
 
